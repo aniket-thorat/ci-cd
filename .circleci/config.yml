@@ -5,7 +5,7 @@ jobs:
       - image: cimg/node:19.9.0
 
     working_directory: ~/repo
-
+    #steps to be performed whenever code is pushed to github
     steps:
       - checkout
 

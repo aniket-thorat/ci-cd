@@ -10,7 +10,7 @@ const Hero = () => {
                     <input type="email" className="form-control" size="50" placeholder="Email Address" required />
                     <div className="input-group-btn">
                         <button type="button" className="btn btn-danger">Subscribe</button>
-                    </div>
+                    </div
                 </div>
             </form>
         </div>
